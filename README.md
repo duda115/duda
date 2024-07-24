@@ -1,4 +1,4 @@
-olá,ese é meu perfil;
+Olá,esse é meu perfil:
 
 Meu e-gmail é: maria.pereira.oliveira06@escola.pr.gov.br
 Estou estudando na Alura.
